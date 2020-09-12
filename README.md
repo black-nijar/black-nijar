@@ -1,16 +1,28 @@
-### Hi there 👋
+<h2> Hey there! I'm Nijarudeen 👋.</h2>
 
-<!--
-**black-nijar/black-nijar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3> 👨🏻‍💻 About Me </h3>
 
-Here are some ideas to get you started:
+- 🤔 &nbsp; Exploring new technologies.
+- 💪 &nbsp; Good Knowledge in MERN Stack.
+- 🌱 &nbsp; Learning more about Web, Mobile & Backend Development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<h3>🛠 Tech Stack</h3>
+
+- 🖥 &nbsp; HTML | CSS 
+- 🌐 &nbsp; JavaScript | ReactJS | React Native 
+- 🌐 &nbsp; Node.js | Deno | ExpressJS
+- 🛢 &nbsp; MySQL | MongoDB | Firebase
+- 🔧 &nbsp; Git  
+
+<br/>
+
+[![black-nijar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=black-nijar&show_icons=true)](https://github.com/black-nijar)
+
+<h3> 🤝🏻 Connect with Me </h3>
+
+<p align="left">
+<a href="mailto:nijarr2020@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-nijarr2020@gmail.com-blue?style=flat-square&logo=gmail"></a>
+</p>
+
+⭐️ From [black-nijar](https://github.com/black-nijar)
