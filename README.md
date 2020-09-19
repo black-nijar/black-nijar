@@ -3,13 +3,12 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies.
-- 💪 &nbsp; Good Knowledge in MERN Stack.
+- 💪 &nbsp; Experience in MERN Stack.
 - 🌱 &nbsp; Learning more about Web, Mobile & Backend Development.
 
 
 <h3>🛠 Tech Stack</h3>
 
-- 🖥 &nbsp; HTML | CSS 
 - 🌐 &nbsp; JavaScript | ReactJS | React Native 
 - 🌐 &nbsp; Node.js | Deno | ExpressJS
 - 🛢 &nbsp; MySQL | MongoDB | Firebase
