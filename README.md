@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies.
-- 💪 &nbsp; Experience in MERN Stack.
+- 💪 &nbsp; Experience in Full Stack.
 - 🌱 &nbsp; Learning more about Web, Mobile & Backend Development.
 
 
