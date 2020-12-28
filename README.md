@@ -3,6 +3,7 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies.
+- 👨🏻‍💻 &nbsp; Currently working on ReactJS, React Native & NodeJS.
 - 🌱 &nbsp; Learning more about Web, Mobile & Backend Development.
 
 
