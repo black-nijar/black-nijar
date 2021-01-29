@@ -1,4 +1,4 @@
-<h2> Hey there! I'm Nijarudeen 👋.</h2>
+<h2> Hey there! I'm Nijarudeen and I'm a Full Stack Developer 👋.</h2>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
