@@ -11,7 +11,7 @@
 
 - 🌐 &nbsp; JavaScript | ReactJS | React Native 
 - 🌐 &nbsp; Node.js | Deno | ExpressJS
-- 🛢 &nbsp; MongoDB | Firebase
+- 🛢 &nbsp; MongoDB | Firebase | MySQL
 - 🔧 &nbsp; Git  
 
 <br/>
