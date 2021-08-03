@@ -16,13 +16,6 @@
 
 <br/>
 
-[![black-nijar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=black-nijar&show_icons=true)](https://github.com/black-nijar)
-
-<br/>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=black-nijar&layout=compact)](https://github.com/black-nijar/github-readme-stats)
-
-
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="left">
