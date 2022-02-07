@@ -19,7 +19,7 @@
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="left">
-<a href="mailto:nijarr2020@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-nijarr2020@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:nijarudeendev@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-nijarudeendev@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 ⭐️ From [black-nijar](https://github.com/black-nijar)
